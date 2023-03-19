@@ -1,8 +1,8 @@
 # viz1
-![](images/turbbo.jpg)
-![](images/heatmap.jpg)
-![](images/treemap.jpg)
-![](images/network.jpg)
-![](images/arc.jpg)
-![](images/radial.jpg)
-![](images/ct.jpg)
+<img src="images/turbbo.jpg">
+<img src="images/heatmap.jpg">
+<img src="images/treemap.jpg">
+<img src="images/network.jpg">
+<img src="images/arc.jpg">
+<img src="images/radial.jpg">
+<img src="images/ct.jpg">
